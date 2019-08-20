@@ -1,7 +1,7 @@
 # papercraft-spectrometer
 An introductory papercraft spectrometry kit
 
-* Main page and docs: https://publiclab.org/wiki/paper-spec
+* Main page and docs: https://publiclab.org/paper
 * Assembly: https://publiclab.org/notes/warren/11-30-2017/build-a-papercraft-spectrometer-for-your-phone-version-2-0
 * Support Public Lab by purchasing a kit: http://store.publiclab.org/collections/spectrometry
 
